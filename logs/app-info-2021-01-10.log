@@ -1,0 +1,205 @@
+[INFO ] 2021-01-10 14:34:48.380 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 14:34:48.625 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 14:34:48.785 [main] LoginStepDef - Password field is cleared successfully
+[INFO ] 2021-01-10 14:34:49.347 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 14:34:54.229 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 14:34:59.535 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 14:42:08.420 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 14:42:08.582 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 14:42:08.660 [main] LoginStepDef - Password field is cleared successfully
+[INFO ] 2021-01-10 14:42:09.001 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 14:43:40.742 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 14:43:40.890 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 14:43:40.963 [main] LoginStepDef - Password field is cleared successfully
+[INFO ] 2021-01-10 14:43:41.361 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 14:45:42.682 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 14:45:42.850 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 14:45:42.973 [main] LoginStepDef - Password field is cleared successfully
+[INFO ] 2021-01-10 14:45:43.492 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 14:51:41.744 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 14:51:47.125 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 14:51:53.927 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 14:52:55.585 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 14:52:55.838 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 14:52:55.921 [main] LoginStepDef - Password field is cleared successfully
+[INFO ] 2021-01-10 14:52:56.533 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 14:53:02.182 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 14:53:02.299 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 14:53:02.404 [main] LoginStepDef - Password is entered successfully
+[INFO ] 2021-01-10 14:53:07.707 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 14:53:07.711 [main] LoginStepDef - HomePage title is displayed
+[INFO ] 2021-01-10 14:53:13.503 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 14:57:09.279 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 14:57:09.478 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 14:57:09.603 [main] LoginStepDef - Password field is cleared successfully
+[INFO ] 2021-01-10 14:57:10.099 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 14:57:15.843 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 14:57:15.953 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 14:57:16.074 [main] LoginStepDef - Password is entered successfully
+[INFO ] 2021-01-10 14:57:17.589 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 14:57:17.602 [main] LoginStepDef - HomePage title is displayed
+[INFO ] 2021-01-10 14:57:23.674 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 15:12:01.832 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 15:12:02.094 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 15:12:02.192 [main] LoginStepDef - Password field is cleared successfully
+[INFO ] 2021-01-10 15:12:02.633 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 15:12:08.504 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 15:12:08.644 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 15:12:08.770 [main] LoginStepDef - Password is entered successfully
+[INFO ] 2021-01-10 15:12:09.994 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 15:12:10.005 [main] LoginStepDef - HomePage title is displayed
+[INFO ] 2021-01-10 15:12:16.497 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 15:12:16.668 [main] LoginStepDef - InValid Username is entered successfully
+[INFO ] 2021-01-10 15:12:16.769 [main] LoginStepDef - InValid Password is entered successfully
+[INFO ] 2021-01-10 15:12:17.684 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 15:41:27.686 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 15:41:27.823 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 15:41:27.895 [main] LoginStepDef - Password field is cleared successfully
+[INFO ] 2021-01-10 15:41:28.325 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 15:41:33.359 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 15:41:33.456 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 15:41:33.567 [main] LoginStepDef - Password is entered successfully
+[INFO ] 2021-01-10 15:41:34.727 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 15:41:34.731 [main] LoginStepDef - HomePage title is displayed
+[INFO ] 2021-01-10 15:41:40.341 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 15:41:40.434 [main] LoginStepDef - InValid Username is entered successfully
+[INFO ] 2021-01-10 15:41:40.542 [main] LoginStepDef - InValid Password is entered successfully
+[INFO ] 2021-01-10 15:41:41.157 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 15:54:51.674 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 15:54:51.864 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 15:54:51.954 [main] LoginStepDef - Password field is cleared successfully
+[INFO ] 2021-01-10 15:54:52.361 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 15:54:57.913 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 15:54:58.009 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 15:54:58.101 [main] LoginStepDef - Password is entered successfully
+[INFO ] 2021-01-10 15:54:59.409 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 15:54:59.411 [main] LoginStepDef - HomePage title is displayed
+[INFO ] 2021-01-10 15:55:04.334 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 15:55:04.431 [main] LoginStepDef - InValid Username is entered successfully
+[INFO ] 2021-01-10 15:55:04.525 [main] LoginStepDef - InValid Password is entered successfully
+[INFO ] 2021-01-10 15:55:05.133 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 15:55:56.369 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 15:55:56.500 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 15:55:56.586 [main] LoginStepDef - Password field is cleared successfully
+[INFO ] 2021-01-10 15:55:56.943 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 15:56:01.980 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 15:56:02.076 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 15:56:02.162 [main] LoginStepDef - Password is entered successfully
+[INFO ] 2021-01-10 15:56:03.480 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 15:56:03.484 [main] LoginStepDef - HomePage title is displayed
+[INFO ] 2021-01-10 15:56:08.258 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 15:56:08.377 [main] LoginStepDef - InValid Username is entered successfully
+[INFO ] 2021-01-10 15:56:08.473 [main] LoginStepDef - InValid Password is entered successfully
+[INFO ] 2021-01-10 15:56:09.092 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 15:57:50.606 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 15:57:50.758 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 15:57:50.839 [main] LoginStepDef - Password field is cleared successfully
+[INFO ] 2021-01-10 15:57:51.171 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 15:57:56.986 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 15:57:57.082 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 15:57:57.180 [main] LoginStepDef - Password is entered successfully
+[INFO ] 2021-01-10 15:57:58.500 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 15:57:58.504 [main] LoginStepDef - HomePage title is displayed
+[INFO ] 2021-01-10 15:58:04.130 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 15:58:04.237 [main] LoginStepDef - InValid Username is entered successfully
+[INFO ] 2021-01-10 15:58:04.311 [main] LoginStepDef - InValid Password is entered successfully
+[INFO ] 2021-01-10 15:58:05.050 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 16:00:50.061 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 16:00:50.180 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 16:00:50.248 [main] LoginStepDef - Password field is cleared successfully
+[INFO ] 2021-01-10 16:00:50.594 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 16:00:55.493 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 16:00:55.624 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 16:00:55.739 [main] LoginStepDef - Password is entered successfully
+[INFO ] 2021-01-10 16:00:56.940 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 16:00:56.943 [main] LoginStepDef - HomePage title is displayed
+[INFO ] 2021-01-10 16:01:01.930 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 16:01:02.043 [main] LoginStepDef - InValid Username is entered successfully
+[INFO ] 2021-01-10 16:01:02.136 [main] LoginStepDef - InValid Password is entered successfully
+[INFO ] 2021-01-10 16:01:02.751 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 18:10:05.690 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 18:10:05.835 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 18:10:05.937 [main] LoginStepDef - Password field is cleared successfully
+[INFO ] 2021-01-10 18:10:06.680 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 18:10:11.746 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 18:10:16.687 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 18:12:16.540 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 18:12:16.709 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 18:12:16.776 [main] LoginStepDef - Password field is cleared successfully
+[INFO ] 2021-01-10 18:12:17.226 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 18:12:22.654 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 18:12:22.773 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 18:12:22.873 [main] LoginStepDef - Password is entered successfully
+[INFO ] 2021-01-10 18:12:24.004 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 18:12:24.007 [main] LoginStepDef - HomePage title is displayed
+[INFO ] 2021-01-10 18:12:28.835 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 18:12:28.913 [main] LoginStepDef - InValid Username is entered successfully
+[INFO ] 2021-01-10 18:12:28.990 [main] LoginStepDef - InValid Password is entered successfully
+[INFO ] 2021-01-10 18:12:29.678 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 18:31:26.681 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 18:31:26.801 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 18:31:26.886 [main] LoginStepDef - Password field is cleared successfully
+[INFO ] 2021-01-10 18:31:27.245 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 18:31:32.409 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 18:31:32.513 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 18:31:32.606 [main] LoginStepDef - Password is entered successfully
+[INFO ] 2021-01-10 18:31:33.881 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 18:31:33.889 [main] LoginStepDef - HomePage title is displayed
+[INFO ] 2021-01-10 18:31:38.934 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 18:31:39.048 [main] LoginStepDef - InValid Username is entered successfully
+[INFO ] 2021-01-10 18:31:39.154 [main] LoginStepDef - InValid Password is entered successfully
+[INFO ] 2021-01-10 18:31:39.823 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 18:34:06.140 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 18:34:06.267 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 18:34:06.360 [main] LoginStepDef - Password field is cleared successfully
+[INFO ] 2021-01-10 18:34:06.790 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 18:34:11.680 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 18:34:11.779 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 18:34:11.851 [main] LoginStepDef - Password is entered successfully
+[INFO ] 2021-01-10 18:34:13.182 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 18:34:13.191 [main] LoginStepDef - HomePage title is displayed
+[INFO ] 2021-01-10 18:34:18.120 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 18:34:18.234 [main] LoginStepDef - InValid Username is entered successfully
+[INFO ] 2021-01-10 18:34:18.314 [main] LoginStepDef - InValid Password is entered successfully
+[INFO ] 2021-01-10 18:34:18.979 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 18:36:43.489 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 18:36:43.629 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 18:36:43.721 [main] LoginStepDef - Password is entered successfully
+[INFO ] 2021-01-10 18:36:46.621 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 18:36:46.623 [main] LoginStepDef - HomePage title is displayed
+[INFO ] 2021-01-10 18:38:42.571 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 18:38:42.713 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 18:38:42.808 [main] LoginStepDef - Password field is cleared successfully
+[INFO ] 2021-01-10 18:38:43.639 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 18:38:49.198 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 18:38:49.308 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 18:38:49.419 [main] LoginStepDef - Password is entered successfully
+[INFO ] 2021-01-10 18:38:50.805 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 18:38:56.500 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 18:38:56.653 [main] LoginStepDef - InValid Username is entered successfully
+[INFO ] 2021-01-10 18:38:56.760 [main] LoginStepDef - InValid Password is entered successfully
+[INFO ] 2021-01-10 18:38:57.752 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 19:48:27.623 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 19:48:27.812 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 19:48:27.942 [main] LoginStepDef - Password field is cleared successfully
+[INFO ] 2021-01-10 19:48:28.365 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 19:48:35.289 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 19:48:35.435 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 19:48:35.588 [main] LoginStepDef - Password is entered successfully
+[INFO ] 2021-01-10 19:48:38.468 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 19:48:45.023 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 19:48:45.202 [main] LoginStepDef - InValid Username is entered successfully
+[INFO ] 2021-01-10 19:48:45.423 [main] LoginStepDef - InValid Password is entered successfully
+[INFO ] 2021-01-10 19:48:46.040 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 19:51:05.127 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 19:51:05.271 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 19:51:05.398 [main] LoginStepDef - Password field is cleared successfully
+[INFO ] 2021-01-10 19:51:05.742 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 19:51:13.122 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 19:51:13.266 [main] LoginStepDef - Username is entered successfully
+[INFO ] 2021-01-10 19:51:13.396 [main] LoginStepDef - Password is entered successfully
+[INFO ] 2021-01-10 19:51:16.065 [main] LoginStepDef - Login button is clicked
+[INFO ] 2021-01-10 19:51:22.742 [main] LoginStepDef - Browser is launched
+[INFO ] 2021-01-10 19:51:22.919 [main] LoginStepDef - InValid Username is entered successfully
+[INFO ] 2021-01-10 19:51:23.058 [main] LoginStepDef - InValid Password is entered successfully
+[INFO ] 2021-01-10 19:51:23.800 [main] LoginStepDef - Login button is clicked
